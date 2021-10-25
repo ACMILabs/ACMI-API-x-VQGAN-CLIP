@@ -1,14 +1,14 @@
 """
 Use the ACMI Public API to get an object's metadata
-# which is then used to generate images.
+which is then used to generate images.
 
-# If you'd like to use an individual ACMI `work_id`
-# specify it below, else we'll choose a random Work.
+If you'd like to use an individual ACMI `work_id`
+specify it below, else we'll choose a random Work.
 
-# Hint: you can find the ACMI `work_id` in the URL from a page on our website.
+Hint: you can find the ACMI `work_id` in the URL from a page on our website.
 
-# e.g. Untitled Goose Game is ID `118201`
-# https://www.acmi.net.au/works/118201--untitled-goose-game/
+e.g. Untitled Goose Game is ID `118201`
+https://www.acmi.net.au/works/118201--untitled-goose-game/
 """
 
 import random
