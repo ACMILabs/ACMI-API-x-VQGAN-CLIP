@@ -7,8 +7,8 @@ specify it below, else we'll choose a random Work.
 
 Hint: you can find the ACMI `work_id` in the URL from a page on our website.
 
-e.g. Untitled Goose Game is ID `118201`
-https://www.acmi.net.au/works/118201--untitled-goose-game/
+e.g. Mad Max is ID `113980`
+https://www.acmi.net.au/works/113980--mad-max/
 """
 
 import random
