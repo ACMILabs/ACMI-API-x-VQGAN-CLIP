@@ -26,11 +26,11 @@ To generate images:
 
 Below are some pre-generated images and the metadata that they were generated from.
 
-<img src="./samples/acmi-118201.png" width="50%"></img><img src="./samples/acmi-118201.gif" width="50%"></img>
+<img src="./samples/acmi-117998.png" width="50%"></img><img src="./samples/acmi-117998.gif" width="50%"></img>
 
-**Source**: [ACMI API](https://api.acmi.net.au/works/118201/) - view this record on the [ACMI Website](https://www.acmi.net.au/works/118201--untitled-goose-game/)
+**Source**: [ACMI API](https://api.acmi.net.au/works/117998/) - view this record on the [ACMI Website](https://www.acmi.net.au/works/117998--the-hobbit-computer-game-for-bbc-model-b/)
 
-**Metadata**: `['Untitled Goose Game', 'Untitled Goose Game is a slapstick-stealth-sandbox, where you are a goose let loose on an unsuspecting village. Make your way around town, from peoples’ back gardens to the high street shops to the village green, setting up pranks, stealing hats, honking a lot, and generally ruining everyone’s day.']`
+**Metadata**: `['The Hobbit', '“The Hobbit” computer game for BBC Model', 'B.“The Hobbit” is a single-player text adventure', 'game, originally released for the games platform', 'ZX Spectrum 48K. It was subsequently released', 'for other platforms including BBC. (See Documentation', 'window for full list of game releases).The', 'adventure is based on J.R.R. Tolkien’s famous', 'book of the same name.The game cassette', 'is accompanied by a manual with information', 'about the game. Game cassette and manual', 'are contained in a black cardboard box.']`
 
 ---
 
@@ -42,19 +42,11 @@ Below are some pre-generated images and the metadata that they were generated fr
 
 ---
 
-<img src="./samples/acmi-107804.png" width="50%"></img><img src="./samples/acmi-107804.gif" width="50%"></img>
+<img src="./samples/acmi-113980.png" width="50%"></img><img src="./samples/acmi-113980.gif" width="50%"></img>
 
-**Source**: [ACMI API](https://api.acmi.net.au/works/107804/) - view this record on the [ACMI Website](https://www.acmi.net.au/works/107804--mad-max-v8-interceptor-replica/)
+**Source**: [ACMI API](https://api.acmi.net.au/works/113980/) - view this record on the [ACMI Website](https://www.acmi.net.au/works/113980--mad-max/)
 
-**Metadata**: `['Mad Max V8 Interceptor replica', 'George Miller’s Mad Max revolutionised movies when it tore through cinemas in 1979. Max Rockatansky’s journey dispensing justice across the wasteland in his V8 Interceptor became a cult classic and catapulted Australian cinema onto the world stage.']`
-
----
-
-<img src="./samples/acmi-74.png" width="50%"></img><img src="./samples/acmi-74.gif" width="50%"></img>
-
-**Source**: [ACMI API](https://api.acmi.net.au/works/74/) - view this record on the [ACMI Website](https://www.acmi.net.au/works/74--the-matrix/)
-
-**Metadata**: `['The Matrix', 'Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.']`
+**Metadata**: `['Mad Max', 'George Miller’s Mad Max revolutionised movies when', 'it tore through cinemas in 1979. Bursting', 'with stunning practical effects, explosive set pieces', 'and iconic costumes, the original Mad Max', 'trilogy (1979-85) cemented its place in pop', 'culture before roaring back to life 30', 'years later.']`
 
 ## Run it locally
 
